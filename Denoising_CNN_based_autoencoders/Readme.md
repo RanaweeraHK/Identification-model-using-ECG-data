@@ -29,4 +29,4 @@ This project includes a folder named Denoising_CNN_based_autoencoders, which con
 The trained model is already provided and can be found at Model\denoising_autoencoder_cnn.h5.
 
 
-![alt text](<Denoising_CNN_based_autoencoders/Images/original_vs_reconstructed_signal (1).png>)
+![alt text](Images/reconstructed.png>)
