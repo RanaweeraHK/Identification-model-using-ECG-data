@@ -24,9 +24,9 @@
 
 ![Decoder](Images/image-2.png)
 
-This project includes a folder named Denoising_CNN_based_autoencoders, which contains all the necessary files for training the model. If you need to retrain the model, simply clone this folder and run the main.py script.
+This project includes a folder named Denoising_CNN_based_autoencoders, which contains all the necessary files for training the model. If you need to retrain the model, simply clone this foldr and run the main.py script.
 
 The trained model is already provided and can be found at Model\denoising_autoencoder_cnn.h5.
 
 
-![alt text](Images/reconstructed.png>)
+![alt text](Images/reconstructed.png)
