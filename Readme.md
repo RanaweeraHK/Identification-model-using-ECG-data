@@ -2,7 +2,7 @@
 
 In this project, we developed identification models using single channel ECG data. ECG signals can often be affected by noise from devices and changes from external factors, but our approach creates reliable models without needing any preprocessing or noise removal. This makes it faster and more practical for real-time applications.
 
-## 1. Model overview
+##  Model overview
 
 In our model, we designed a CNN to serve as the embedding generator, which learns meaningful representations from the ECG data. The model’s weights and parameters are continuously refined and updated using a Siamese network, optimized through contrastive loss. This combination allows the network to better distinguish between similar and different ECG patterns, enhancing identification accuracy.
 
@@ -31,6 +31,8 @@ For generating embeddings from the embedding generator model for person identifi
 * As part of an experiment, we combined each dataset and trained the model, which is detailed in [combined-dataset-training.ipynb](combined-dataset-training.ipynb).
 * To create the embedding generator model, we utilized the raw, original datasets without any preprocessing or noise removal techniques. However, to ensure a fair comparison with state-of-the-art models, we subsequently applied their preprocessing methods and recorded the results, which can be found in [`preprocessing-pipelines.ipynb`](preprocessing-pipelines.ipynb)
 
+
+As a byproduct of our project, we developed a dashboard to display our experimental results. You can check it out here.
 - [Dashboard](https://github.com/ParameswaranSajeenthiran/ECGAnalysisDashbaord)
 - [Dashboard Code](https://github.com/ParameswaranSajeenthiran/ECGAnalysisDashbaord)
 
