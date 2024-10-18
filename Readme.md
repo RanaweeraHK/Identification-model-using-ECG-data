@@ -25,8 +25,8 @@ For generating embeddings from the embedding generator model for person identifi
 2) XGBoost
 3) Neural Network.
 
-* As part of an experiment, we combined each dataset and trained the model, which is detailed in [combined-dataset-training.ipynb](link inserted).
-* To create the embedding generator model, we utilized the raw, original datasets without any preprocessing or noise removal techniques. However, to ensure a fair comparison with state-of-the-art models, we subsequently applied their preprocessing methods and recorded the results, which can be found in `preprocessing-pipelines.ipynb`."
+* As part of an experiment, we combined each dataset and trained the model, which is detailed in ['combined-dataset-training.ipynb'](combined-dataset-training.ipynb).
+* To create the embedding generator model, we utilized the raw, original datasets without any preprocessing or noise removal techniques. However, to ensure a fair comparison with state-of-the-art models, we subsequently applied their preprocessing methods and recorded the results, which can be found in [`preprocessing-pipelines.ipynb`](."
 
 - [Dashboard](https://github.com/ParameswaranSajeenthiran/ECGAnalysisDashbaord)
 - [Dashboard Code](https://github.com/ParameswaranSajeenthiran/ECGAnalysisDashbaord)
