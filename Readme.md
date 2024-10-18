@@ -9,6 +9,10 @@ In our model, we designed a CNN to serve as the embedding generator, which learn
 #### Training phase of the embedding genrator model
 ![Weekly updates](https://github.com/user-attachments/assets/5f13622c-2c71-4f9e-ad86-f6407f0383db)
 
+#### Embedding Generator Model(CNN model) summary
+![Weekly updates (4)](https://github.com/user-attachments/assets/66206496-c044-4c5d-b96e-9bffec305290)
+
+
 
 - [Dashboard](https://github.com/ParameswaranSajeenthiran/ECGAnalysisDashbaord)
 - [Dashboard Code](https://github.com/ParameswaranSajeenthiran/ECGAnalysisDashbaord)
