@@ -10,7 +10,8 @@ In our model, we designed a CNN to serve as the embedding generator, which learn
 ![Weekly updates](https://github.com/user-attachments/assets/5f13622c-2c71-4f9e-ad86-f6407f0383db)
 
 #### Embedding Generator Model(CNN model) summary
-![Weekly updates (4)](https://github.com/user-attachments/assets/66206496-c044-4c5d-b96e-9bffec305290)
+![image](https://github.com/user-attachments/assets/7382e99c-712e-499c-80d5-82d12c845045)
+
 
 
 
