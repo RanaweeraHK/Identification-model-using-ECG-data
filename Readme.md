@@ -23,9 +23,12 @@ In our model, we designed a CNN to serve as the embedding generator, which learn
 For generating embeddings from the embedding generator model for person identification, we employed three classifiers,
 1) K Nearest Neighbors
 2) XGBoost
-3) Neural Network.
+3) Neural Network
+   
+![image](https://github.com/user-attachments/assets/5bf9dc96-6880-4a9a-b7b2-e4540a1c247d)
 
-* As part of an experiment, we combined each dataset and trained the model, which is detailed in ['combined-dataset-training.ipynb'](combined-dataset-training.ipynb).
+   
+* As part of an experiment, we combined each dataset and trained the model, which is detailed in [combined-dataset-training.ipynb](combined-dataset-training.ipynb).
 * To create the embedding generator model, we utilized the raw, original datasets without any preprocessing or noise removal techniques. However, to ensure a fair comparison with state-of-the-art models, we subsequently applied their preprocessing methods and recorded the results, which can be found in [`preprocessing-pipelines.ipynb`](preprocessing-pipelines.ipynb)
 
 - [Dashboard](https://github.com/ParameswaranSajeenthiran/ECGAnalysisDashbaord)
