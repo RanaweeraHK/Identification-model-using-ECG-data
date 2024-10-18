@@ -6,7 +6,7 @@ In this project, we developed identification models using single channel ECG dat
 
 In our model, we designed a CNN to serve as the embedding generator, which learns meaningful representations from the ECG data. The model’s weights and parameters are continuously refined and updated using a Siamese network, optimized through contrastive loss. This combination allows the network to better distinguish between similar and different ECG patterns, enhancing identification accuracy.
 
-### Training phase of the embedding genrator model
+### Training phase of the embedding generator model
 ![Weekly updates](https://github.com/user-attachments/assets/5f13622c-2c71-4f9e-ad86-f6407f0383db)
 
 ### Embedding Generator Model(CNN model) summary
