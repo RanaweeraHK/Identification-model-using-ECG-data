@@ -12,7 +12,7 @@ In our model, we designed a CNN to serve as the embedding generator, which learn
 #### Embedding Generator Model(CNN model) summary
 ![image](https://github.com/user-attachments/assets/7382e99c-712e-499c-80d5-82d12c845045)
 
-
+* The training process for the embedding generator model is available in `embedding_generator.ipynb`, and the trained model is saved as `embedding_generator.h5`.
 
 
 - [Dashboard](https://github.com/ParameswaranSajeenthiran/ECGAnalysisDashbaord)
