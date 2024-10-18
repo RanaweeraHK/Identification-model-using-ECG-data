@@ -30,6 +30,7 @@ For generating embeddings from the embedding generator model for person identifi
    
 * As part of an experiment, we combined each dataset and trained the model, which is detailed in [combined-dataset-training.ipynb](combined-dataset-training.ipynb).
 * To create the embedding generator model, we utilized the raw, original datasets without any preprocessing or noise removal techniques. However, to ensure a fair comparison with state-of-the-art models, we subsequently applied their preprocessing methods and recorded the results, which can be found in [`preprocessing-pipelines.ipynb`](preprocessing-pipelines.ipynb)
+* As part of our experiments, we also developed a denoiser model.[Denoiser]()
 
 
 As a byproduct of our project, we developed a dashboard to display our experimental results. You can check it out here.
