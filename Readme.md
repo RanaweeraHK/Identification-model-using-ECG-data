@@ -17,14 +17,16 @@ In our model, we designed a CNN to serve as the embedding generator, which learn
 2. [PTB Diagnostic dataset](https://physionet.org/content/ptbdb/1.0.0/)
 3. [St-Petersburg dataset](https://physionet.org/content/incartdb/1.0.0/)
 
-* The training process for the embedding generator model is available in `embedding_generator.ipynb`, and the trained model is saved as `embedding_generator.h5`.
+* We used the MIT-BIH dataset for training. The training process for the embedding generator model is documented in `embedding_generator.ipynb`, and the trained model is saved as `embedding_generator.h5`.
+
 
 For generating embeddings from the embedding generator model for person identification, we employed three classifiers,
 1) K Nearest Neighbors
 2) XGBoost
 3) Neural Network.
 
-
+* As part of an experiment, we combined each dataset and trained the model, which is detailed in [combined-dataset-training.ipynb](link inserted).
+* To create the embedding generator model, we utilized the raw, original datasets without any preprocessing or noise removal techniques. However, to ensure a fair comparison with state-of-the-art models, we subsequently applied their preprocessing methods and recorded the results, which can be found in `preprocessing-pipelines.ipynb`."
 
 - [Dashboard](https://github.com/ParameswaranSajeenthiran/ECGAnalysisDashbaord)
 - [Dashboard Code](https://github.com/ParameswaranSajeenthiran/ECGAnalysisDashbaord)
