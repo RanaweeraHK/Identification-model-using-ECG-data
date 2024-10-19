@@ -10,7 +10,7 @@ In our model, we designed a CNN to serve as the embedding generator, which learn
 
 ### Notebooks
 1. [Training & Testing ](https://github.com/RanaweeraHK/Identification-model-using-ECG-data/blob/main/Embedding_Generator_v20.ipynb)
-2. [Testing with sythtic Noise Dataset ](https://github.com/RanaweeraHK/Identification-model-using-ECG-data/blob/main/Testing%20synthetically%20Distorted%20dataset.ipynb)
+2. [Testing with synthetic Noise Dataset ](https://github.com/RanaweeraHK/Identification-model-using-ECG-data/blob/main/Testing%20synthetically%20Distorted%20dataset.ipynb)
 
 
 
