@@ -43,5 +43,5 @@ For generating embeddings from the embedding generator model for person identifi
 
 ---
 As a byproduct of our project, we developed a dashboard to display our experimental results. You can check it out here.
-- [Dashboard](https://github.com/ParameswaranSajeenthiran/ECGAnalysisDashbaord)
+- [Dashboard]([https://github.com/ParameswaranSajeenthiran/ECGAnalysisDashbaord](https://ecg-demo-gss6cdswd5p.streamlit.app/))
 - [Dashboard Code](https://github.com/ParameswaranSajeenthiran/ECGAnalysisDashbaord)
